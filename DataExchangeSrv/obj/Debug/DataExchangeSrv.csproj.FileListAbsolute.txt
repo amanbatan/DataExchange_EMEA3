@@ -1,0 +1,54 @@
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe.config
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.pdb
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.ProjectInstaller.resources
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.GenerateResource.cache
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.CoreCompileInputs.cache
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.pdb
+C:\Users\rivastef1\OneDrive\DataExchangeService\DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.AssemblyReference.cache
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe.config
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.pdb
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.AssemblyReference.cache
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.ProjectInstaller.resources
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.GenerateResource.cache
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.CoreCompileInputs.cache
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\OneDrive\DataExchangeService\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.pdb
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe.config
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.pdb
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.AssemblyReference.cache
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.ProjectInstaller.resources
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.GenerateResource.cache
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.CoreCompileInputs.cache
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\source\repos\20221108 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.pdb
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe.config
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\bin\Debug\DataExchangeSrv.pdb
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.AssemblyReference.cache
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.ProjectInstaller.resources
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.GenerateResource.cache
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.CoreCompileInputs.cache
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.exe
+C:\Users\rivastef1\source\repos\20230607 DataExchangeSrv\DataExchangeSrv\obj\Debug\DataExchangeSrv.pdb
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe.config
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\bin\Debug\DataExchangeSrv.pdb
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.AssemblyReference.cache
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.ProjectInstaller.resources
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.GenerateResource.cache
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.CoreCompileInputs.cache
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.exe
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20230607 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.pdb
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe.config
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\bin\Debug\DataExchangeSrv.exe
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\bin\Debug\DataExchangeSrv.pdb
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.AssemblyReference.cache
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.ProjectInstaller.resources
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.GenerateResource.cache
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.csproj.CoreCompileInputs.cache
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.exe
+C:\DataBusiness\RIVASTEF1\Desktop\progetti nuovi\20231116 DataExchangeSrv DEU-FAU\DataExchangeSrv\obj\Debug\DataExchangeSrv.pdb

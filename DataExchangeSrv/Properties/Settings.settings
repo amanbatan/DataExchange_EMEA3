@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataExchangeSrv.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogEnabled" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="LogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\rivastef1\OneDrive\DataExchange\WindowsFormsApp1\WindowsFormsApp1\Logs\</Value>
+    </Setting>
+    <Setting Name="DBIntegrConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DBDEU1335;Initial Catalog=OnGuardIntegration;User ID=lenel;Password=Fm480Cf_2018!</Value>
+    </Setting>
+    <Setting Name="RetentionDay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="MaxTransactionPerTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="RefreshTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="ThreadAliveCheck" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="EventCollectorFrequency" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="DBOnGuard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DBDEU1335;Initial Catalog=AccessControl;User ID=lenel;Password=Fm480Cf_2018!</Value>
+    </Setting>
+    <Setting Name="MaxDays" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
